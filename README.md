@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jm-Kurama
 - 👀 I’m interested in LEARNING MORE CODING!! 😂
 - 🌱 I’m currently learning Web developement from strach 💪🏻
-- 💞️ I’m looking to collaborate with anymore who can help me improve. 😁👊🏻
+- 💞️ I’m looking to collaborate with anymone who can help me improve. 😁👊🏻
 - 📫 How to reach me : odakurama@hotmail.com
 
 <!---
